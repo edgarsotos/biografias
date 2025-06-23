@@ -1,0 +1,114 @@
+[
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "title": "Father of Faith",
+    "bio": "Abraham, originally Abram, is the common patriarch of the Abrahamic religions, including Judaism, Christianity, and Islam. In Judaism, he is the founding father of the covenant of the pieces, the special relationship between the Jewish people and God; in Christianity, he is the prototype of all believers, Jewish or Gentile; and in Islam he is a link in the chain of prophets that begins with Adam and culminates in Muhammad.",
+    "videoUrl": "/videos/abraham.mp4",
+    "backgroundColor": "#fdfbf7",
+    "personalInfo": {
+      "title": "👨‍👩‍👧‍👦 Personal Information",
+      "content": "Son of Terah, husband to Sarah, and father to Isaac and Ishmael. He was born in Ur of the Chaldees."
+    },
+    "challenges": {
+      "title": "🧗‍♂️ Challenges Faced",
+      "content": "Faced a great famine, had to leave his homeland, and was tested by God to sacrifice his own son, Isaac."
+    },
+    "successes": {
+      "title": "🏆 Main Successes",
+      "content": "Became the father of a multitude of nations, demonstrated unwavering faith, and established a covenant with God."
+    },
+    "mistakes": {
+      "title": "🤔 Main Mistakes",
+      "content": "On two occasions, he passed off his wife, Sarah, as his sister, fearing for his own life."
+    },
+    "application": {
+      "title": "💡 Application to My Life",
+      "content": "Abraham's life teaches us about the power of faith and obedience, even when the path ahead is uncertain. His story encourages us to trust in a higher purpose and to be willing to step out of our comfort zones to pursue a calling. It also reminds us that even great figures have flaws, and that mistakes are a part of the human journey."
+    }
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "title": "The Lawgiver",
+    "bio": "Moses was a prophet, leader, and lawgiver, who is one of the most important figures in the Abrahamic religions. According to the Hebrew Bible, he was a former Egyptian prince who led the Israelites out of slavery in Egypt and across the Red Sea, after which he received the Ten Commandments at Mount Sinai.",
+    "videoUrl": "/videos/moses.mp4",
+    "backgroundColor": "#f7f9fc",
+    "personalInfo": {
+      "title": "📜 Personal Information",
+      "content": "Son of Amram and Jochebed, brother to Aaron and Miriam. He was married to Zipporah and had two sons, Gershom and Eliezer. He was a Levite from the house of Kohath."
+    },
+    "challenges": {
+      "title": "🔥 Challenges Faced",
+      "content": "Confronting the powerful Pharaoh of Egypt, leading a stubborn and rebellious people through the wilderness for 40 years, and enduring their frequent complaints and loss of faith."
+    },
+    "successes": {
+      "title": "🌊 Main Successes",
+      "content": "Successfully led the Israelites out of 400 years of slavery, parted the Red Sea, and received the Law from God on Mount Sinai, establishing the foundation of Israel's legal and religious life."
+    },
+    "mistakes": {
+      "title": "💧 Main Mistakes",
+      "content": "In a moment of anger, he struck a rock to bring forth water instead of speaking to it as God had commanded. Because of this act of disobedience, he was not permitted to enter the Promised Land."
+    },
+    "application": {
+      "title": "⚖️ Application to My Life",
+      "content": "Moses' life is a profound lesson in leadership, patience, and obedience. He teaches us that true leadership often involves immense personal sacrifice and dealing with difficult people. His mistake reminds us that even a moment of frustration can have significant consequences, highlighting the importance of managing our emotions and following instructions faithfully, even when under pressure."
+    }
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "title": "The Shepherd King",
+    "bio": "David is one of the most important figures in the Old Testament. A shepherd who became king of Israel, he was known for his courage, his deep faith in God, and his poetic psalms. He is celebrated for defeating the giant Goliath and for uniting the tribes of Israel into a single kingdom with Jerusalem as its capital.",
+    "videoUrl": "/videos/david.mp4",
+    "backgroundColor": "#f8fbf8",
+    "personalInfo": {
+      "title": "👑 Personal Information",
+      "content": "The youngest son of Jesse of Bethlehem, from the tribe of Judah. He was a skilled musician and the father of Solomon, who would succeed him as king. He was a man after God's own heart."
+    },
+    "challenges": {
+      "title": "🦁 Challenges Faced",
+      "content": "Hunted by a jealous King Saul for years, faced numerous wars with neighboring nations like the Philistines, and dealt with rebellion and betrayal from within his own family, including from his son Absalom."
+    },
+    "successes": {
+      "title": "🎶 Main Successes",
+      "content": "Defeated Goliath, became king of Israel and Judah, captured Jerusalem to make it his capital, and brought the Ark of the Covenant there. He also wrote many of the Psalms."
+    },
+    "mistakes": {
+      "title": "💔 Main Mistakes",
+      "content": "Committed adultery with Bathsheba and then arranged for the murder of her husband, Uriah the Hittite. He also took a census of the people against God's will, leading to a plague."
+    },
+    "application": {
+      "title": "❤️ Application to My Life",
+      "content": "David's story is a powerful reminder that God can use anyone, regardless of their humble beginnings. His life shows the heights of faith and courage, but also the depths of human failure. His sincere repentance after his greatest sins teaches us about God's immense grace and forgiveness. It encourages us to be honest about our flaws and to always turn back to God with a repentant heart."
+    }
+  },
+  {
+    "id": "rahab",
+    "name": "Rahab",
+    "title": "The Woman of Faith",
+    "bio": "Rahab was a woman who lived in Jericho in the Promised Land and assisted the Israelites in capturing the city. She is celebrated for her faith in the God of Israel and for protecting the two spies sent by Joshua.",
+    "videoUrl": "/videos/rahab.mp4",
+    "backgroundColor": "#fef9f7",
+    "personalInfo": {
+      "title": "🏠 Personal Information",
+      "content": "A resident and innkeeper in the city of Jericho. She lived with her father, mother, brothers, and all their families. She later married Salmon of the tribe of Judah and became an ancestor of David and Jesus Christ."
+    },
+    "challenges": {
+      "title": "🧱 Challenges Faced",
+      "content": "Lived in a city hostile to Israel and had to choose between loyalty to her city and faith in God. She risked her life and her family's safety by hiding the Israelite spies from the king of Jericho."
+    },
+    "successes": {
+      "title": "🌿 Main Successes",
+      "content": "By her faith, she and her entire family were saved from the destruction of Jericho. She became part of the lineage of the Messiah, a remarkable inclusion for a Gentile woman with a sinful past."
+    },
+    "mistakes": {
+      "title": "🤫 Main Mistakes",
+      "content": "Her early life was marked by sin as a prostitute in a pagan city. While her deception to the guards of Jericho was an act of faith to save the spies, lying is still noted as a complicated moral action in biblical interpretation."
+    },
+    "application": {
+      "title": "🔑 Application to My Life",
+      "content": "Rahab's story is a testament to the fact that God's grace is for everyone, regardless of their past. It shows that faith demonstrated through action is powerful and can lead to redemption and a new beginning. Her story encourages us to act on our faith, even when it's risky, and to trust that God can use anyone for His purposes."
+    }
+  }
+]
